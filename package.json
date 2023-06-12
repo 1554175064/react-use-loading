@@ -1,0 +1,25 @@
+{
+  "name": "react-use-loading",
+  "version": "1.0.0",
+  "description": "a test hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1554175064/react-use-loading.git"
+  },
+  "keywords": [
+    "hooks"
+  ],
+  "author": "kukuxuan-cola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1554175064/react-use-loading/issues"
+  },
+  "homepage": "https://github.com/1554175064/react-use-loading#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
