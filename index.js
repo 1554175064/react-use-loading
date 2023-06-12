@@ -23,4 +23,4 @@ const useLoading = (asyncFn) => {
   );
   return [isLoading, fn];
 };
-exports.default = useLoading;
+module.exports = useLoading;
